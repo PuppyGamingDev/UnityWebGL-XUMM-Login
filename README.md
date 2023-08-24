@@ -18,8 +18,8 @@ Build it for WebGL and you are done....
 If you have any questions, my DMs are always open on
 
 - Twitter > @iamshiffed
-- Discord > Shiffed#2071
-- Email > puppygamingdev@gmail.com
+- Discord > Shiffed#2071 or shiffed
+- Email > shiffed@puppy.tools
 
 Tips are always welcome and help continue development
 
